@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dicun (Bùi Dương Duy Cường) [cite: 2]</h1>
-<h3 align="center">Backend Software Engineering Student | Node.js & Golang [cite: 6, 31]</h3>
+<h1 align="center">Hi 👋, I'm Cường (Dicun)</h1>
+<h3 align="center">Backend Software Engineering Student</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bddcuong05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:buicuong7954@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> [cite: 3]
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -14,67 +14,52 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Third-year Information Technology student at VNU-HCM[cite: 10].
-- ⚙️ Deeply passionate about backend architecture, distributed systems, and real-time applications[cite: 7].
-- 🛠️ Currently focused on writing clean, testable code and building highly available services using **Node.js** and **Golang**[cite: 6, 31].
-- 🌱 Actively learning and applying production-oriented engineering practices, including CI/CD and containerization[cite: 7].
-- 💼 **Available for full-time internship/work starting immediately.** [cite: 8]
+- 🎓 3rd-year IT undergrad at VNU-HCM.
+- ⚙️ Deeply interested in backend architecture, distributed systems, and scalable API design.
+- 🛠️ Focused on writing clean, testable code with **Node.js** and **Go**.
+- 🌱 Actively exploring production-grade engineering practices (CI/CD, Docker, Cloud).
+- 💼 **Available for full-time backend internship opportunities.**
+
+---
+
+### 🛠️ Core Tech Stack
+
+**Languages & Frameworks** <br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br/>
+
+**Databases & Infrastructure** <br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🎓 [UniHub - University Workshop Management Platform](https://github.com/iamDicun/UniHub-Workshop) [cite: 16, 29]
-- **Role:** Team Leader | Full-Stack Developer | DevOps Engineer [cite: 19]
-- **Impact:** Built a platform handling 12,000+ concurrent students[cite: 21]. Optimized backend performance with **Redis** & **RabbitMQ** to reduce bottlenecks[cite: 22]. Implemented fault-tolerant payment flows with Circuit Breaker and idempotency patterns[cite: 23, 24]. Automated Docker deployments to **GCP** via **GitHub Actions**[cite: 27, 28].
+* **[UniHub - Event Management Platform](https://github.com/iamDicun/UniHub-Workshop)**
+    * **Role:** Lead Backend / DevOps
+    * **Tech:** Node.js, PostgreSQL, Redis, RabbitMQ, Docker, GCP
+    * **Highlights:** Architected backend services for over 12k users. Utilized Redis and RabbitMQ to prevent bottlenecks and implemented Circuit Breaker patterns for robust payment processing. Set up complete CI/CD pipelines.
 
-#### 🏛️ [Public Service Portal - ML Integration](https://github.com/iamDicun/ML-23KHDL1-Lab) [cite: 33, 41]
-- **Role:** Team Leader | Full-stack Developer | ML Engineer [cite: 35]
-- **Impact:** Developed an AI-integrated analytics dashboard[cite: 39]. Fine-tuned PhoBERT for multi-label sentiment classification (88.13% Macro F1) and exposed models via REST API for real-time inference[cite: 38, 40].
-
-#### 🎙️ [Vietnamese TTS Web App](https://github.com/wokovn/Project-LT-ML-23KHDL1-HCMUS) [cite: 42, 50]
-- **Role:** Team Leader | Full-stack Developer | ML Engineer [cite: 45]
-- **Impact:** Fine-tuned VieNeu-TTS model for Vietnamese speech synthesis and designed a full TTS inference pipeline exposed as a REST API via **FastAPI**[cite: 47, 48].
+* **[Public Service Portal - AI Analytics](https://github.com/iamDicun/ML-23KHDL1-Lab)**
+    * **Role:** Full-stack & ML Engineer
+    * **Tech:** Node.js, Python, PhoBERT, React, Supabase
+    * **Highlights:** Fine-tuned and deployed PhoBERT models for multi-label sentiment classification. Integrated the models via REST APIs for real-time dashboard analytics to evaluate service quality.
 
 ---
 
-### 💻 Tech Stack
+### 📊 GitHub Activity
 
-<div align="center">
-  
-  **Languages** <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="python" width="40" height="40"/> [cite: 31, 34]
-  <br/><br/>
-
-  **Backend & Architecture** <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> [cite: 31]
-  <br/><br/>
-
-  **Databases & Messaging** <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> [cite: 31]
-  <br/><br/>
-
-  **DevOps & Infrastructure** <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> [cite: 31]
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamDicun&show_icons=true&theme=radium&hide_border=true" alt="Dicun's GitHub Stats" /> [cite: 4, 29]
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamDicun&layout=compact&theme=radium&hide_border=true" alt="Top Languages" /> [cite: 4, 29]
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamDicun&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Dicun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamDicun&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
+</p>
