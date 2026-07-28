@@ -18,7 +18,6 @@
 - ⚙️ Deeply interested in backend architecture, distributed systems, and scalable API design.
 - 🛠️ Focused on writing clean, testable code with **Node.js** and **Go**.
 - 🌱 Actively exploring production-grade engineering practices (CI/CD, Docker, Cloud).
-- 💼 **Available for full-time backend internship opportunities.**
 
 ---
 
